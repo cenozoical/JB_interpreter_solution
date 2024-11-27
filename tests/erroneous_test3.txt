@@ -1,0 +1,4 @@
+a = 14
+scope {
+x = a
+print x

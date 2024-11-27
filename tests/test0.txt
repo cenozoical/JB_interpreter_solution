@@ -1,0 +1,16 @@
+a = -  242
+b = a
+scope {
+
+a = 25
+b = 32
+print a
+print b
+b = a 
+print b
+}
+print b
+print c
+c = 1
+b = c
+print b
